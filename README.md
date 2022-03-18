@@ -4,7 +4,7 @@
   - Analyse statistique et graphique
   - ML - gridsearch
   - DL
-  - 
+  
 ## N° 2 - Entrainement MNIST
   - DL
   - Affichage images
