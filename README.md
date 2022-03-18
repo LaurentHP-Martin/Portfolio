@@ -9,3 +9,4 @@
 ## N° 2 - Entrainement MNIST
   - DL : CNN
   - Affichage images
+  - Affichage matrice de confusion améliorée
